@@ -3,7 +3,8 @@
 
 Team City Slickers has masterfully blended there technical knowledge with project expertise. During the Hackathon they where able to create and demonstrate a functioning blockchain that stores the relevant financial information for subcontractors and have shown a vision for an incredible future where BIM models are aligned with blockchains and Ricardian contracts to release funds to subcontractors as soon as the work is marked as complete. An incredible vision for automation and glimpse into a future that may not be as far away as we think.
 
-![alt text](https://github.com/Projecting-Success-Solutions-Portal/Hack-19/blob/main/Challenge%204/Team%204%20-%20City%20Slickers/Team%204%20Cover%20Image.png)
+<img width="1197" alt="Team 4 - City Slickers Thumbnail Image" src="https://github.com/Projecting-Success-Solutions-Portal/Hack-19/assets/30728931/e38246b6-d364-4801-887b-d0f22756a6a6">
+
 
 **Participants Names**
 
