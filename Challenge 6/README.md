@@ -1,6 +1,6 @@
+# Challenge #6
 
-Challenge #6
-Automated Benefits Realisation Reports
+**Automated Benefits Realisation Reports**
 
 2025 PDA Vision Theme: Benefits & Value Management
 
