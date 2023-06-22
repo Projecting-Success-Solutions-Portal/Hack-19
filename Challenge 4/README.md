@@ -15,31 +15,26 @@ Technology has evolved, and with increasingly sophisticated computers and algori
 
 **Pain Points**
 
-• I want to clearly understand the Contract I am working to without having to rely on expensive legal representation
-
-• I want to maintain the intent and protection of proper legal documents
-
-• I want my contract compliance to be machine registered and easy to prove
-
-• I want shared control of contracts I agree to, cryptographically secured
-
-• I want to understand easily what my responsibilities are in a contract and what any penalties are for failure to complete my responsibilities
-
-• I want machine executable code to handle the evidence and replicate the payment terms for standard construction contracts so that I can get paid in good time
+- I want to clearly understand the Contract I am working to without having to rely on expensive legal representation
+- I want to maintain the intent and protection of proper legal documents
+- I want my contract compliance to be machine registered and easy to prove
+- I want shared control of contracts I agree to, cryptographically secured
+- I want to understand easily what my responsibilities are in a contract and what any penalties are for failure to complete my responsibilities
+- I want machine executable code to handle the evidence and replicate the payment terms for standard construction contracts so that I can get paid in good time
 
 **Personas**
 
-• As a small subcontractor, I want to easily understand a contract I agree to, So that I can deliver what is needed and understand my rights and obligations.
+- As a small subcontractor, I want to easily understand a contract I agree to, So that I can deliver what is needed and understand my rights and obligations.
 
-• As a small subcontractor, I want the payment terms of my Contract handled easily and automatically, So that I can complete my Contract promptly and efficiently without undue administration and stumbling across unexpected terms.
+- As a small subcontractor, I want the payment terms of my Contract handled easily and automatically, So that I can complete my Contract promptly and efficiently without undue administration and stumbling across unexpected terms.
 
-• As a main contractor, I want my legal documents to be automated and the terms clear, So that I can release capacity with my team, improve transparency with other entities,  automatically track progress and compliance, promptly pay my suppliers in accordance with our agreements and grow my business.
+- As a main contractor, I want my legal documents to be automated and the terms clear, So that I can release capacity with my team, improve transparency with other entities,  automatically track progress and compliance, promptly pay my suppliers in accordance with our agreements and grow my business.
 
-• As a main contractor, I want to ensure all legal practices are as straightforward as possible, So that legal resolutions are quick and transparent and my customers and suppliers are happy with my services.
+- As a main contractor, I want to ensure all legal practices are as straightforward as possible, So that legal resolutions are quick and transparent and my customers and suppliers are happy with my services.
 
-• As a developer, I want to know that the Main contractor has the proper contracts in place and is paying its supply chain in accordance with our terms, So that my project can be delivered swiftly and with the least disruption or unforeseen disputes.
+- As a developer, I want to know that the Main contractor has the proper contracts in place and is paying its supply chain in accordance with our terms, So that my project can be delivered swiftly and with the least disruption or unforeseen disputes.
 
-• As an investor, I want to know that the developer, the contractor and the supply chain have the appropriate terms to ensure they each have access to the funds I have deployed to deliver the asset I am investing in, So that payment is available and delivered quickly to ensure the most streamline project delivery.
+- As an investor, I want to know that the developer, the contractor and the supply chain have the appropriate terms to ensure they each have access to the funds I have deployed to deliver the asset I am investing in, So that payment is available and delivered quickly to ensure the most streamline project delivery.
 
 **Context**
 
