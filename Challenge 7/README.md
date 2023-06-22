@@ -64,5 +64,7 @@ With the creation of a tool to run this event GLEEDS can greatly reduce the cost
 **Useful Resources​**
 
 ​​​​​​​​https://www.edenprojects.org/​
+
 https://support.strava.com/hc/en-us/articles/216918347-Clubs-on-Strava​
+
 https://developers.strava.com/docs/reference/ ​
