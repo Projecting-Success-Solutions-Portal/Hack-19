@@ -1,49 +1,42 @@
 
-# Hack-17
+# Hack-19
 
-The Hack 17 repository is designed to store full end to end working solutions deemed appropriate for open source solutions.
+The Hack 19 repository is designed to store full end-to-end working solutions deemed appropriate for open-source solutions.
 
-The main purpose for Hack 17 is to solve business problems around project foresight, prediction, risk management and data analytics.
+The main purpose of Hack 19 is to solve business problems around project foresight, prediction, risk management and data analytics.
 ## List of Challenges
 
-People - Human Behaviours in Projects
-- 1.Work Efficiency Curve
+SHEW (Safety, Health, Environment & Wellbeing)
+- 1.Good Story League
 
-Governance - Design Management
-- 2.Leaders in Design
-- 3.Developing Sustainable East Midlands Power Unit Using Data
 
-Reporting - Next Generation PMO
-- 4.Project Performance - Can i believe it?
-- 5.Smart Assist - Clippy 2.0
-- 6.Optimising Deliver through Collaboration Insights
+Stakeholder Management
+- 2.Stakeholder Communications: Secret AI Assistant
 
-Delivery Support - Logistics
-- 7.Extreme Weather Tracking Tool
-- 8.Climate Resilience and Impact on Fast and Reliable Journey Metrics
+People
+- 3.Transient Recruitment Enabler
 
-Delivery Support - Knowledge
-- 9.Carbon Benchmarking
-- 10.Project Chatter Box
+Contracts & Procurement
+- 4.Ricardian Construction Contracts
 
-Controls - Contracts & Projucrements
-- 11.Project Bid Cataloguer
+Risk Management
+- 5.Industry Risk Ontology
 
-Controls - Planning, Monitoring & Control
-- 12.Progress Pathway Tool
-- 13.GreenOps Calculator
+Benefits & Value Management
+- 6.Automated Benefits Realisation Reports
 
-Controls - Risk Management
-- 14.Risk Management Insights
-- 15.Integrated Risk App and Visualisation Solution
-- 16.Estates Risk Profile
+People
+- 7.Global Challenge Mission
 
-Controls - Automated WBS
-- 17.Automated WBS Planning for Crossrail2
-- 18.Learning form WBS Diversity
+Knowledge
+- 8.House of PMO Skills & Competency Framework Analysis 
+- 9.Visual to Natural Language Converter
 
-Controls - Quality/Right First Time
-- 19.UNSPSC - A spoonful of UNSPSC's makes the medicine go down
+Lessons Learned
+- 10.Lessons Learned Visionary Data Ontology
+
+Productivity
+- 11.Meeting Virtual Assistant
 
 ## Folder Structure & Documentation
 
