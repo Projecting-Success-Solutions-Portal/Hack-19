@@ -1,14 +1,23 @@
+# Project Data Analytics Community
+
+The Project Data Analytics Community is a community of project professionals, data analysts and industr experts dedicated to improving project delivery through the power of data and analytics. As part of this community we regularly run our Project:Hack Hackathons where we tackle real world problems with data driven solutions.
+
+https://www.linkedin.com/company/pdacommunity/
+
+The Project Data Analytics Community is Sponsored by Projecting Success.
+
+https://www.linkedin.com/company/projsuccess/
 
 # Hack-19
 
 The Hack 19 repository is designed to store full end-to-end working solutions deemed appropriate for open-source solutions.
 
-The main purpose of Hack 19 is to solve business problems around project foresight, prediction, risk management and data analytics.
+The main purpose of Hack 19 is to solve business problems around project data analytics.
+
 ## List of Challenges
 
 SHEW (Safety, Health, Environment & Wellbeing)
 - 1.Good Story League
-
 
 Stakeholder Management
 - 2.Stakeholder Communications: Secret AI Assistant
@@ -35,24 +44,7 @@ Knowledge
 Lessons Learned
 - 10.Lessons Learned Visionary Data Ontology
 
-Productivity
-- 11.Meeting Virtual Assistant
-
-## Folder Structure & Documentation
-
-When creating your solution folder, ensure it is uploaded to the correct directory for the challenge.
-
-Follow the below example of the folder structure - 
-- Delivery Support (folder)
-    - Logistics (folder)
-        - Challenge 7 - Team 7b Weather Boys (folder)
-            - Dataset (folder)
-                - README or txt file containing description and source of dataset
-            - Solution (folder)
-                - ReadME or txt file containing Challenge summary, participants names, link or embedded Youtube video.
-
-
-
 ## Support
 
 For support, email solutionsportal@projectingsuccess.co.uk
+If you are interested in the Project Data Analytics Level 4 Apprenticeship visit our website https://projectingsuccess.co.uk/training-development/
