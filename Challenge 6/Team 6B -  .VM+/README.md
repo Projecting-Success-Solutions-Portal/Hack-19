@@ -3,7 +3,8 @@
 
 Team City .VM+ has masterfully blended there technical knowledge with project expertise. During the Hackathon they where able to create and demonstrate a functioning blockchain that stores the relevent financial infomation for subcontracters and have shown a vision for an incredible future where BIM models are aligned with blockchains and ricardian contracts to release funds to subcontractors as soon as the work is marked as complete. An incredible vision for automation and glimpse into a future that may not be as far away as we think.
 
-![6B pitch](https://github.com/Projecting-Success-Solutions-Portal/Hack-19/assets/30728931/1cfbd876-4ee1-41d9-b101-9b4f7951b45a)
+<img width="1408" alt="6B -  VM+ Thumbnail Image" src="https://github.com/Projecting-Success-Solutions-Portal/Hack-19/assets/30728931/fc78f28f-9e3d-4e87-a553-344336447169">
+
 
 
 **Participants Names**
