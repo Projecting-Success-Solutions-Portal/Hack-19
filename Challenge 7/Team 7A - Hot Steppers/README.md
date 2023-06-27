@@ -7,7 +7,8 @@ Their solution aimed to allow global employees to easily track steps, view live 
 
 Hot Steppers implemented augmented reality (AR) to display step counts, providing an engaging and visual experience for participants. The AR feature was integrated into leaderboards, enhancing motivation and competition.
 
-<img width="1396" alt="7A - Hot Steppers Thumbnail Image" src="https://github.com/Projecting-Success-Solutions-Portal/Hack-19/assets/30728931/dcbd0faf-8a1f-415f-a30e-03adc7746a77">
+
+<img width="1396" alt="7A - Hot Steppers Thumbnail Image" src="https://github.com/Projecting-Success-Solutions-Portal/Hack-19/assets/30728931/8f60512f-30a6-455d-ab40-cc2c51c35129">
 
 
 **Participants Names**
